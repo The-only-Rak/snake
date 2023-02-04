@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "snake.h": "c",
+        "error.h": "c",
+        "features.h": "c",
+        "setjmp.h": "c",
+        "sdl.h": "c",
+        "istream": "c",
+        "ostream": "c"
+    },
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-error"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}

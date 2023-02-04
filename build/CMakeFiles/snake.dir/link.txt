@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/snake.dir/main.c.o CMakeFiles/snake.dir/src/food.c.o CMakeFiles/snake.dir/src/snake.c.o -o snake  -lSDL2 
